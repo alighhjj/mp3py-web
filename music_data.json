@@ -1,0 +1,870 @@
+{
+  "processedAt": "2025-06-10T00:35:41.590Z",
+  "totalSongs": 86,
+  "songs": [
+    {
+      "title": "甜蜜蜜",
+      "artist": "邓丽君",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/LC6WA1ZgsYQH9hDrMcQv7g==/109951169245251577.jpg?param=500y500",
+      "trackId": 26608741,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:43:31.944Z"
+    },
+    {
+      "title": "我只在乎你",
+      "artist": "邓丽君",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/aN_g-a32xE4MO7GoC3JU6w==/109951168278838053.jpg?param=500y500",
+      "trackId": 1888076998,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:43:38.343Z"
+    },
+    {
+      "title": "小城故事",
+      "artist": "邓丽君",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/BJksZeIBiqHtIY6Tgvi1Cw==/109951169245235679.jpg?param=500y500",
+      "trackId": 229779,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:43:45.882Z"
+    },
+    {
+      "title": "漫步人生路",
+      "artist": "邓丽君",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/yKpmaildOG6SMM3KGJ4e5A==/109951169245209479.jpg?param=500y500",
+      "trackId": 229285,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:43:55.438Z"
+    },
+    {
+      "title": "童年",
+      "artist": "罗大佑",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/kCfzWkv0yuxvUXjPqzysMA==/109951168795311512.jpg?param=500y500",
+      "trackId": 109530,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:02.805Z"
+    },
+    {
+      "title": "明天会更好（翻自 罗大佑）",
+      "artist": "老谢（谢世国）",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/y8ibKnVfB-YYt_6rF82ylQ==/109951165816594339.jpg?param=500y500",
+      "trackId": 1830689357,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:10.607Z"
+    },
+    {
+      "title": "光阴的故事",
+      "artist": "罗大佑",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/kCfzWkv0yuxvUXjPqzysMA==/109951168795311512.jpg?param=500y500",
+      "trackId": 109545,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:19.552Z"
+    },
+    {
+      "title": "恋曲1990",
+      "artist": "罗大佑",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/HNHU4X2_wB41h5MvGn8ZXw==/109951163104937346.jpg?param=500y500",
+      "trackId": 109198,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:25.079Z"
+    },
+    {
+      "title": "你的样子",
+      "artist": "罗大佑",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/ihm976G9kqbWGLMNYH86Ug==/109951169594517248.jpg?param=500y500",
+      "trackId": 108641,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:31.349Z"
+    },
+    {
+      "title": "忘情水(Live)",
+      "artist": "刘德华",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/RlH1is35WD6zpDUbHROMuQ==/109951165909154069.jpg?param=500y500",
+      "trackId": 110740,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:39.962Z"
+    },
+    {
+      "title": "冰雨(Live)",
+      "artist": "刘德华",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/MFPzYnbAIV9D3m-IcYx7Sg==/109951165909153119.jpg?param=500y500",
+      "trackId": 110397,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:48.309Z"
+    },
+    {
+      "title": "吻别",
+      "artist": "张学友",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/7AQwBci0yd2HuYLYR9mtTg==/109951169427335305.jpg?param=500y500",
+      "trackId": 190449,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:44:54.272Z"
+    },
+    {
+      "title": "一路上有你",
+      "artist": "张学友",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/CsLS0f8wqicMpODqAo2cKA==/109951171268823456.jpg?param=500y500",
+      "trackId": 188071,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:00.169Z"
+    },
+    {
+      "title": "今夜你会不会来",
+      "artist": "黎明",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/YhiiDlcIR6Hk10S_FokBkQ==/109951169072250099.jpg?param=500y500",
+      "trackId": 115250,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:09.762Z"
+    },
+    {
+      "title": "对你爱不完",
+      "artist": "郭富城",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/vFaAgC4bcWsIhqOXMLwTHg==/109951165674633479.jpg?param=500y500",
+      "trackId": 89805,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:20.112Z"
+    },
+    {
+      "title": "容易受伤的女人",
+      "artist": "王菲",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/4Ln6P1iMVWNyDeKgvVH_Cg==/109951169124297468.jpg?param=500y500",
+      "trackId": 298880,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:27.610Z"
+    },
+    {
+      "title": "我愿意",
+      "artist": "王菲",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/R0jo39d75CT_bjMLesfo9Q==/109951163592976362.jpg?param=500y500",
+      "trackId": 5244822,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:35.815Z"
+    },
+    {
+      "title": "红豆",
+      "artist": "王菲",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/WkzLUXccDmgD1vpEfVE-JA==/109951169790181226.jpg?param=500y500",
+      "trackId": 299936,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:44.403Z"
+    },
+    {
+      "title": "流年",
+      "artist": "王菲",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/-JqJa58zpYL7qWcziY9XWg==/109951169790166248.jpg?param=500y500",
+      "trackId": 299513,
+      "source": "netease",
+      "processedAt": "2025-06-08T15:45:52.636Z"
+    },
+    {
+      "title": "女人花",
+      "artist": "梅艳芳",
+      "duration": "--:--",
+      "src": "https://m701.music.126.net/20250608224617/321e557d5608a1a051ace4dd8a84690c/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1509058262/fe9b/5531/cb9f/b0497127b499d6ee8937e01fce1e69aa.mp3",
+      "cover": "https://p3.music.126.net/Q1eLLA7y1Swc8wg_kzhrsg==/109951170424729237.jpg?param=500y500",
+      "trackId": 276269,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:21:16.526Z"
+    },
+    {
+      "title": "风继续吹(Live)",
+      "artist": "张国荣",
+      "duration": "--:--",
+      "src": "https://m701.music.126.net/20250608224623/525c186f1142b71d9daa2f9f9979affd/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32407383532/75b6/337b/727f/0348d98b23dbee58a93b7c90f40b5d67.mp3",
+      "cover": "https://p3.music.126.net/FXwdpVaGq631wrlVCNYj0Q==/109951170517241124.jpg?param=500y500",
+      "trackId": 188489,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:21:23.240Z"
+    },
+    {
+      "title": "MONICA",
+      "artist": "张国荣",
+      "duration": "--:--",
+      "src": "https://m7.music.126.net/20250608224633/eeeb0c292e5a7c982db6aaab0bbe3b10/ymusic/fc3e/89ac/4b87/34af1a7bf9bf0628f4e4aff903aa9bcb.mp3",
+      "cover": "https://p3.music.126.net/5hx8VUa5fICjHJw0xTqV1A==/112150186046134.jpg?param=500y500",
+      "trackId": 188424,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:21:32.930Z"
+    },
+    {
+      "title": "偏偏喜欢你",
+      "artist": "陈百强",
+      "duration": "--:--",
+      "src": "https://m701.music.126.net/20250608224643/f13e9570a572a3345faecdcfd7704d85/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31492715446/5c7f/69d0/effb/bdd2f556e97d067398ed24e39efcc027.mp3",
+      "cover": "https://p3.music.126.net/YJnzBsRGbX_JKc3uLIILYA==/109951169052554355.jpg?param=500y500",
+      "trackId": 66476,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:21:43.001Z"
+    },
+    {
+      "title": "男儿当自强",
+      "artist": "林子祥",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224653/8811b3ba9495ea0bbb499a81d57c4719/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32470141873/4487/84fc/64ba/52fb7f86b72de490a367a70c6657b7d4.mp3",
+      "cover": "https://p3.music.126.net/hkCc8jjDIVD45nC9F2f_5g==/109951166230088317.jpg?param=500y500",
+      "trackId": 116113,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:21:52.937Z"
+    },
+    {
+      "title": "明月千里寄相思",
+      "artist": "徐小凤",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224701/40da2e3989036c6cbabb9c2d8fadfd48/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29951206319/b356/bfe3/2280/eda06281c6270e1f1d83f5b88027dacc.mp3",
+      "cover": "https://p3.music.126.net/2GPm8wCB5frCWfSADADcag==/109951166835584225.jpg?param=500y500",
+      "trackId": 310689,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:00.462Z"
+    },
+    {
+      "title": "你的眼神",
+      "artist": "蔡琴",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224711/d62d343dcccbec3abd22254561afc06b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36146223973/0b64/c0c1/556b/a1596ed68c6724640d981bcefb37d455.mp3",
+      "cover": "https://p3.music.126.net/He4xNDNDvWLMVMxaTPDbMg==/109951169614803862.jpg?param=500y500",
+      "trackId": 212168,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:11.368Z"
+    },
+    {
+      "title": "追梦人",
+      "artist": "凤飞飞",
+      "duration": "--:--",
+      "src": "https://m7.music.126.net/20250608224722/aeb03a462b5b3733e183dd20d779c8a3/ymusic/0c7c/ea83/ff5e/718288055661185b99d305de9de64009.mp3",
+      "cover": "https://p3.music.126.net/paOXNZrpNi6R69wCnu-85w==/19183179370087476.jpg?param=500y500",
+      "trackId": 231412,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:21.733Z"
+    },
+    {
+      "title": "一剪梅",
+      "artist": "费玉清",
+      "duration": "--:--",
+      "src": "https://m7.music.126.net/20250608224728/580b42e3ad90bc150052558c9ede4eb5/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3020341275/b88d/6eb2/e6f5/3da8900e9977d857ff6d6a53b2fcb09a.mp3",
+      "cover": "https://p3.music.126.net/rgTFwLoQtZpJ7Gyj1u5mag==/109951168064199217.jpg?param=500y500",
+      "trackId": 82914,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:28.051Z"
+    },
+    {
+      "title": "山丘",
+      "artist": "李宗盛",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224739/49edf8c70523e8663c9e462b83bc34af/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481835051/44b9/379c/d66a/854dadd4b3012d0a1b77c094c3add386.mp3",
+      "cover": "https://p3.music.126.net/0tEzUaiiWOb3gOgQaYKATg==/109951163023734669.jpg?param=500y500",
+      "trackId": 26598946,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:39.188Z"
+    },
+    {
+      "title": "七里香 (钢琴版) [原唱: 周杰伦]",
+      "artist": "纪钧瀚 (Bryan Chi)",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224747/2bfb772cc0f2a599e9d84ebe46c8a8c5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/32988226325/9eae/1ba4/ce37/f9477a98df6757ee906c2402bcd5e780.mp3",
+      "cover": "https://p3.music.126.net/Z8fHX-NWSuwVGmVHQHi9NQ==/109951169278334459.jpg?param=500y500",
+      "trackId": 2119812072,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:47.067Z"
+    },
+    {
+      "title": "青花瓷 (钢琴版) [原唱: 周杰伦]",
+      "artist": "纪钧瀚 (Bryan Chi)",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224758/0a5d678a007e4dc1e846d9fb29ff6c22/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14364325792/56fe/0403/cbde/a5e3314641f889109712c93cee33902a.mp3",
+      "cover": "https://p3.music.126.net/1Bvyzvt4qnU_8cf4Gf3xlQ==/109951167394412301.jpg?param=500y500",
+      "trackId": 1945895727,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:22:58.294Z"
+    },
+    {
+      "title": "稻香(深情版)",
+      "artist": "Lucky小爱",
+      "duration": "--:--",
+      "src": "https://m701.music.126.net/20250608224810/a23647e24ae9ee270c6d60459122d949/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56782086893/c1eb/23df/fca2/888f84f278f8456fc6190f2ccfa1bd41.mp3",
+      "cover": "https://p3.music.126.net/QEPznCZl7MPwDKnlTAOfvA==/109951170200689777.jpg?param=500y500",
+      "trackId": 2651425710,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:23:09.867Z"
+    },
+    {
+      "title": "夜曲",
+      "artist": "7k, 周杰伦-",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224821/17bcef89d791571df9a17c3115809683/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/60296413440/a8f2/6718/7ce5/8b35ebfc0ad3ded9abaff8b96e2d8606.mp3",
+      "cover": "https://p3.music.126.net/4y-IHAK6n8FllEx7Hui1Rw==/109951171183005616.jpg?param=500y500",
+      "trackId": 2710469249,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:23:21.306Z"
+    },
+    {
+      "title": "东风破(原唱：周杰伦)",
+      "artist": "孙颖 (SunYing)",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224833/c0c638d991f7b00030b7ce7d76af8135/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/56635928242/7196/a7bf/4ad9/851d4917653559745ec8b2e236d69fde.mp3",
+      "cover": "https://p3.music.126.net/UG1DtLfNWjVViObJcTMWEg==/109951170175889549.jpg?param=500y500",
+      "trackId": 2648947836,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:23:33.526Z"
+    },
+    {
+      "title": "普通朋友",
+      "artist": "陶喆",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224844/761550565b1cd12bf45c49bff9881242/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17152295376/f10b/7b2c/bf4f/f8a6b246003b9a7fafd01d8b321a9e89.mp3",
+      "cover": "https://p3.music.126.net/tMQXBMTy8pGjGggX1j0YNQ==/109951169389595068.jpg?param=500y500",
+      "trackId": 150623,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:23:44.099Z"
+    },
+    {
+      "title": "陶喆-爱很简单（Lucifer / Lil-69 remix）",
+      "artist": "刘雨杭, Lil-69",
+      "duration": "--:--",
+      "src": "https://m7.music.126.net/20250608224856/07ee07470d37059bece133229f7e0464/ymusic/010f/0008/060e/6e7ae3639d7b3ac13fa81dec318302c3.mp3",
+      "cover": "https://p3.music.126.net/wn1Jfqx28OF3xNg6EIviRQ==/109951164605299612.jpg?param=500y500",
+      "trackId": 1414551444,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:23:56.135Z"
+    },
+    {
+      "title": "就是爱你",
+      "artist": "陶喆",
+      "duration": "--:--",
+      "src": "https://m801.music.126.net/20250608224905/6012c0089dc657e5281e0ef7e3eeaae7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/18717885531/dcfe/0e50/b11e/07d6e75f6f00350b0cfe1efdaa1f860a.mp3",
+      "cover": "https://p3.music.126.net/ZR6QuByWgej9-aRhZjLqHw==/109951163803188844.jpg?param=500y500",
+      "trackId": 150430,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:24:04.901Z"
+    },
+    {
+      "title": "温柔",
+      "artist": "五月天",
+      "duration": "--:--",
+      "src": "https://m701.music.126.net/20250608224912/99cc1d79664cc6fd2a21241fede30300/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481677178/fe00/403e/dcea/f1c0e3f3eaa28c4a1fd4ba4da5156804.mp3",
+      "cover": "https://p3.music.126.net/-Md-YgTBiVsbpmVXIZz00w==/109951170702056876.jpg?param=500y500",
+      "trackId": 386538,
+      "source": "netease",
+      "processedAt": "2025-06-08T14:24:12.180Z"
+    },
+    {
+      "title": "月亮代表我的心",
+      "artist": "邓丽君",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/LzkzNYJ7zzb9b3ofOac2Qg==/109951168146310081.jpg?param=500y500",
+      "trackId": 1847408145,
+      "source": "netease",
+      "processedAt": "2025-06-08T16:03:35.817Z"
+    },
+    {
+      "title": "倔强",
+      "artist": "五月天",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/ovsWnGqQYBy0XC8WD1lULw==/109951163188724796.jpg?param=500y500",
+      "trackId": 386175,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:40:28.641Z"
+    },
+    {
+      "title": "知足",
+      "artist": "五月天",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/_B1Fn_Z1WxHzqGLzLZDf-w==/109951163263882447.jpg?param=500y500",
+      "trackId": 385965,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:40:35.712Z"
+    },
+    {
+      "title": "突然好想你",
+      "artist": "五月天",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/l0vGEnowGfj6DgFSGojyfQ==/109951168163397768.jpg?param=500y500",
+      "trackId": 385781,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:40:43.713Z"
+    },
+    {
+      "title": "恋人未满（伴奏）",
+      "artist": "S.H.E",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/7n8177EK9LRFe5NGGC_A4Q==/109951167901490816.jpg?param=500y500",
+      "trackId": 1432099218,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:40:51.330Z"
+    },
+    {
+      "title": "舞娘",
+      "artist": "蔡依林",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/owr7Ak1Dk6AAn96hirnUDg==/109951163251449978.jpg?param=500y500",
+      "trackId": 209718,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:40:59.471Z"
+    },
+    {
+      "title": "唯一",
+      "artist": "王力宏",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/59G6Y2NZlfqCHuTorgDNAw==/109951170708268079.jpg?param=500y500",
+      "trackId": 27483167,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:04.366Z"
+    },
+    {
+      "title": "勇气",
+      "artist": "梁静茹",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/PavIMxZq16K7-0fSF5n-yg==/109951163240604120.jpg?param=500y500",
+      "trackId": 254485,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:09.848Z"
+    },
+    {
+      "title": "遇见",
+      "artist": "孙燕姿",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/KZ0VfIoFYsxpjz9sTQuLVQ==/17687843556430013.jpg?param=500y500",
+      "trackId": 454828887,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:16.232Z"
+    },
+    {
+      "title": "江南",
+      "artist": "林俊杰",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/_0OAhWhIbg-nOP-6e4o-SA==/109951168111265583.jpg?param=500y500",
+      "trackId": 108914,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:25.711Z"
+    },
+    {
+      "title": "张惠妹 - 听海[C.Y.S vocal mix]",
+      "artist": "DjKaKaZu",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/ObHayQQNyq3_ymr0ZMp4SA==/109951168677192018.jpg?param=500y500",
+      "trackId": 2111478367,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:30.130Z"
+    },
+    {
+      "title": "朋友",
+      "artist": "周华健",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/EAG_4Ee85beWnAzyLetdUA==/109951165566710305.jpg?param=500y500",
+      "trackId": 187134,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:37.960Z"
+    },
+    {
+      "title": "上海滩",
+      "artist": "叶丽仪",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/efUqZtx0yEV1GyvcqVNZyA==/109951169300536675.jpg?param=500y500",
+      "trackId": 320950,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:46.397Z"
+    },
+    {
+      "title": "铁血丹心",
+      "artist": "罗文, 甄妮",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/L5lhd6K_4hGi8tj9A7EwjQ==/109951166263552916.jpg?param=500y500",
+      "trackId": 112678,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:41:54.354Z"
+    },
+    {
+      "title": "新鸳鸯蝴蝶梦",
+      "artist": "黄安",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/bA0VutnGbJSfI5ZbiVMpcw==/38482906984192.jpg?param=500y500",
+      "trackId": 95410,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:42:02.934Z"
+    },
+    {
+      "title": "当",
+      "artist": "动力火车",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/wFwlRzftG93nflECMYeaWQ==/109951170223134702.jpg?param=500y500",
+      "trackId": 2653450819,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:42:09.666Z"
+    },
+    {
+      "title": "爱如潮水",
+      "artist": "张信哲",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/qKOAF2w1v1H9pzjCLowTog==/63771674423236.jpg?param=500y500",
+      "trackId": 187338,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:42:14.890Z"
+    },
+    {
+      "title": "橄榄树",
+      "artist": "齐豫",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/_3vmKQOutdukdrBoLpktvQ==/109951165687498845.jpg?param=500y500",
+      "trackId": 285005,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:42:23.520Z"
+    },
+    {
+      "title": "鹿港小镇",
+      "artist": "罗大佑",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/kCfzWkv0yuxvUXjPqzysMA==/109951168795311512.jpg?param=500y500",
+      "trackId": 109525,
+      "source": "netease",
+      "processedAt": "2025-06-09T11:42:32.714Z"
+    },
+    {
+      "title": "白衣飘飘的年代",
+      "artist": "叶蓓",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/a2vSAS89jzzJzPyuOQQWVQ==/52776558134030.jpg?param=500y500",
+      "trackId": 85568,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:35:43.450Z"
+    },
+    {
+      "title": "同桌的你",
+      "artist": "老狼",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/BlUFI90gZ2bAfzyb3ZCBQA==/109951166626440183.jpg?param=500y500",
+      "trackId": 1895377452,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:35:47.957Z"
+    },
+    {
+      "title": "海阔天空",
+      "artist": "Beyond",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/q6cm6Pk70YArijk1_QDoEg==/109951163984013003.jpg?param=500y500",
+      "trackId": 1357375695,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:35:56.463Z"
+    },
+    {
+      "title": "千千阕歌",
+      "artist": "陈慧娴",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/tzmGFZ0-DPOulXS97H5rmA==/18712588395102549.jpg?param=500y500",
+      "trackId": 212233,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:01.422Z"
+    },
+    {
+      "title": "一生何求",
+      "artist": "陈百强",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/IhAp1xZF-5vu82OGPH31zg==/109951168893005573.jpg?param=500y500",
+      "trackId": 65642,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:07.871Z"
+    },
+    {
+      "title": "红日",
+      "artist": "李克勤",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/ijz9xCWE_56-60MmHN-s8A==/109951168437454514.jpg?param=500y500",
+      "trackId": 115502,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:14.960Z"
+    },
+    {
+      "title": "倩女幽魂",
+      "artist": "张国荣",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/7KySp2aGUjgsADUcS_cEeQ==/109951169614520994.jpg?param=500y500",
+      "trackId": 188175,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:24.361Z"
+    },
+    {
+      "title": "护花使者",
+      "artist": "李克勤",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/63FWrGpyTiXkH4Zne81qeg==/109951167893640977.jpg?param=500y500",
+      "trackId": 115569,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:33.575Z"
+    },
+    {
+      "title": "喜欢你",
+      "artist": "Beyond",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/zZtUDuWk6qIe3ezMt4UMjg==/109951165796417308.jpg?param=500y500",
+      "trackId": 346073,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:39.409Z"
+    },
+    {
+      "title": "真的爱你",
+      "artist": "Beyond",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/zZtUDuWk6qIe3ezMt4UMjg==/109951165796417308.jpg?param=500y500",
+      "trackId": 346075,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:47.837Z"
+    },
+    {
+      "title": "光辉岁月",
+      "artist": "Beyond",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/JOJvZc_7SqQjKf8TktQ_bw==/29686813951246.jpg?param=500y500",
+      "trackId": 346576,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:36:53.625Z"
+    },
+    {
+      "title": "青藏高原",
+      "artist": "李娜",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/l_xhTfVoQtZ7IQ0fNQFKdQ==/109951163028207124.jpg?param=500y500",
+      "trackId": 258284,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:02.578Z"
+    },
+    {
+      "title": "奢香夫人",
+      "artist": "凤凰传奇",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/Uu_tvYJWMEqKmVlKwrVGpQ==/109951163068646489.jpg?param=500y500",
+      "trackId": 354750,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:07.206Z"
+    },
+    {
+      "title": "最炫民族风",
+      "artist": "凤凰传奇",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/Uu_tvYJWMEqKmVlKwrVGpQ==/109951163068646489.jpg?param=500y500",
+      "trackId": 354738,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:15.534Z"
+    },
+    {
+      "title": "荷塘月色",
+      "artist": "凤凰传奇",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/q_iUlVcIm7OFG81lzeYCnA==/109951170708252440.jpg?param=500y500",
+      "trackId": 354684,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:21.578Z"
+    },
+    {
+      "title": "万物生",
+      "artist": "萨顶顶",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/M4APYocej6mM5EDFQtYSSw==/2293581255606120.jpg?param=500y500",
+      "trackId": 26428046,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:29.859Z"
+    },
+    {
+      "title": "梦醒时分",
+      "artist": "陈淑桦",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/9lD09Rl4iKd1a0wQYQwA1A==/18774161045357276.jpg?param=500y500",
+      "trackId": 440403836,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:36.776Z"
+    },
+    {
+      "title": "真心英雄",
+      "artist": "成龙, 周华健, 李宗盛",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/cpoUinrExafBHL5Nv5iDHQ==/109951166361218466.jpg?param=500y500",
+      "trackId": 27901965,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:43.577Z"
+    },
+    {
+      "title": "浪人情歌",
+      "artist": "伍佰",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/ZVuQ4Cd0hQm07wj79zIaRg==/109951170270558113.jpg?param=500y500",
+      "trackId": 156902,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:49.529Z"
+    },
+    {
+      "title": "突然的自我 (Live)",
+      "artist": "伍佰",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/awQVkO1OmMWoxZL--dikJg==/109951164970741627.jpg?param=500y500",
+      "trackId": 1446235249,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:37:55.978Z"
+    },
+    {
+      "title": "盛夏的果实",
+      "artist": "莫文蔚",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/3eVhNBf4fv133FRgMj4IPQ==/109951164628978750.jpg?param=500y500",
+      "trackId": 277382,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:01.406Z"
+    },
+    {
+      "title": "他一定很爱你",
+      "artist": "阿杜",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/3lrUXI96dmlEi2UgeIhOHg==/109951163076301483.jpg?param=500y500",
+      "trackId": 60263,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:10.173Z"
+    },
+    {
+      "title": "后来",
+      "artist": "刘若英",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/eBF7bHnJYBUfOFrJ_7SUfw==/109951163351825356.jpg?param=500y500",
+      "trackId": 254574,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:17.074Z"
+    },
+    {
+      "title": "很爱很爱你",
+      "artist": "刘若英",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/xWLy-QXDjiHe5gU8w-Ndww==/109951165694162222.jpg?param=500y500",
+      "trackId": 254589,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:23.289Z"
+    },
+    {
+      "title": "亲爱的那不是爱情 (Live)",
+      "artist": "张韶涵",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/_8EWgYcYrfZrv1fCgO-Mbw==/3405187513733087.jpg?param=500y500",
+      "trackId": 36841953,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:29.972Z"
+    },
+    {
+      "title": "隐形的翅膀",
+      "artist": "张韶涵",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/PrZEpCYof9sbGKid2Djq6g==/109951167430264389.jpg?param=500y500",
+      "trackId": 327115,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:35.604Z"
+    },
+    {
+      "title": "逆战",
+      "artist": "张杰",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/Y_9l-ydJzV693ev8bGo-nA==/109951165164760011.jpg?param=500y500",
+      "trackId": 1465225532,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:42.084Z"
+    },
+    {
+      "title": "夜空中最亮的星",
+      "artist": "逃跑计划",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/625-tE8OzdM-rWO37PgqlQ==/109951168111472442.jpg?param=500y500",
+      "trackId": 25706282,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:47.518Z"
+    },
+    {
+      "title": "这世界那么多人",
+      "artist": "莫文蔚",
+      "duration": "--:--",
+      "src": null,
+      "cover": "https://p3.music.126.net/LOTxqRjFm03VJEOHJbUqMw==/109951165944804127.jpg?param=500y500",
+      "trackId": 1842025914,
+      "source": "netease",
+      "processedAt": "2025-06-10T00:38:54.332Z"
+    }
+  ],
+  "status": "completed",
+  "lastUpdated": "2025-06-10T00:38:54.334Z",
+  "progress": "86/29 (有效歌曲)",
+  "completedAt": "2025-06-10T00:38:54.341Z"
+}

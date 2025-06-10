@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- PWA 配置 -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#000000">
+    
+    <!-- 移动设备支持的 meta 标签 -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="音乐播放器">
+    <meta name="format-detection" content="telephone=no">
+    
+    <!-- Apple 设备图标 -->
+    <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png">
+    <!-- 添加错误处理的样式 -->
+    <style>
+        .error-message {
+            text-align: center;
+            padding: 20px;
+            color: #ff5555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="window-controls">
+                <span class="close"></span>
+                <span class="minimize"></span>
+                <span class="maximize"></span>
+            </div>
+            <div class="app-title">
+                <i class="fas fa-music"></i> 音乐播放器
+            </div>
+            <div class="user-info">
+                <span class="username"></span>
+            </div>
+        </header>
+        <main>
+            <aside class="album-info">
+                <img src="/icons/icon-192x192.png" alt="Album Cover" class="album-cover" id="current-album-cover">
+                <div class="album-info-text">
+                    <h2 class="song-title-display">选择一首歌曲</h2>
+                    <p class="artist-display">by 未知艺术家</p>
+                </div>
+                <button class="buy-button" id="download-button">下载歌曲</button>
+            </aside>
+            <section class="playlist">
+                <% if (songs && songs.length > 0) { %>
+                    <% songs.forEach((song, index) => { %>
+                        <div class="song-item" 
+                             data-src="<%= song.src %>" 
+                             data-cover="<%= song.cover %>" 
+                             data-track-id="<%= song.trackId %>" 
+                             data-source="<%= song.source %>">
+                            <span class="song-number"><%= String(index + 1).padStart(String(songs.length).length, '0') %> </span>
+                            <span class="song-title"><%= song.title %></span>
+                            <span class="song-artist"><%= song.artist %></span>
+                        </div>
+                    <% }); %>
+                <% } else { %>
+                    <div class="error-message">
+                        <p>没有找到音乐文件，请检查 music_list.json 文件或网络连接</p>
+                    </div>
+                <% } %>
+            </section>
+        </main>
+        <footer>
+            <div class="player-controls">
+                <i class="fas fa-backward"></i>
+                <i class="fas fa-play"></i>
+                <i class="fas fa-forward"></i>
+            </div>
+            <div class="playback-bar">
+                <span class="current-time">0:00</span>
+                <div class="progress-bar">
+                    <div class="progress"></div>
+                    <div class="seek-thumb"></div>
+                </div>
+                <span class="total-time">0:00</span>
+            </div>
+            <div class="volume-control">
+                <i class="fas fa-volume-up"></i>
+                <input type="range" class="volume-slider" min="0" max="100" value="50" 
+                       aria-label="音量控制" 
+                       title="调节音量" 
+                       role="slider" 
+                       aria-valuemin="0" 
+                       aria-valuemax="100" 
+                       aria-valuenow="50">
+            </div>
+        </footer>
+    </div>
+    
+    <!-- Font Awesome 图标库 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- 播放器 JavaScript -->
+    <script src="/player.js"></script>
+    
+    <!-- Service Worker 注册 -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(registration => {
+                        console.log('SW registered: ', registration);
+                    })
+                    .catch(registrationError => {
+                        console.log('SW registration failed: ', registrationError);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>
